@@ -1,0 +1,39 @@
+{
+    "user" : {
+        "fullName": "Valentia Baloyi",
+        "photo" : "me.jpg"
+    },
+    "city" : {
+        "name" : "Johannesburg",
+        "photo" : "jhb.jpg",
+        "description" : "A very busy city"
+    },
+    "foreignLanguage" : {
+        "language" : "Xitsonga",
+        "phrases" : [{
+            "englishPhrase" : "Happy",
+            "foreignLanguage" : "Ntsako"
+        },
+        {
+            "englishPhrase" : "Thank you for this lesson",
+            "foreignLanguage" : "Nikensela ku dyondisiwa"
+        }]
+    },
+    "favouriteSubjects" : {
+        "Discipline": "BA Honours Strategic Communications",
+        "subject":[
+        {
+            "name" : "Stakeholder management",
+            "description" : "Managing people"
+        },
+        {
+            "name" : "Communications, leadership and change",
+            "description" : "To be a good leader"
+        },
+        {
+            "name" : "Media",
+            "description" : "About entertainment"
+        }
+    ]
+}
+}
