@@ -111,14 +111,14 @@ jobs:
                 <th>Subject Name</th>
                 <th>Subject Description</th>
             </tr>        
-        {{#favouriteSubjects.subject}}
+        {{# each data.favouriteSubjects.subject}}
 
             <tr>
                 <td>{{this.name}}</td>
                 <td>{{this.description}}</td>
 
             </tr>   
-            {{/favouriteSubjects.subject}}     
+            {{/each}}     
        
         </table>
        </div>
