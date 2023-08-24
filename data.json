@@ -1,11 +1,11 @@
 {
     "user" : {
         "fullName": "Valentia Baloyi",
-        "photo" : "me.jpg"
+        "photo" : "./me.jpg"
     },
     "city" : {
         "name" : "Johannesburg",
-        "photo" : "jhb.jpg",
+        "photo" : "./jhb.jpg",
         "description" : "A very busy city"
     },
     "foreignLanguage" : {
